@@ -1,0 +1,138 @@
+body{
+    background-color: pink;
+}
+#main{
+    background-color: white;
+    width: 1000px;
+    height: 580px;
+    position: absolute;
+    left: 230px;
+    top: 90px;
+}
+#menu{
+    background-color: purple;
+    height: 40px;
+    width: 40px;
+    position: relative;
+    border: 12px solid purple;
+    border-width: 20px;
+}
+#user{
+    height: 40px;
+    width: 40px;
+    margin: 20px;
+    position: relative;
+    top: 100px;
+
+}
+#message{
+    height: 40px;
+    width: 40px;
+    position: relative;
+    top: 140px;
+    right: 64px;
+}
+#edit{
+    height: 40px;
+    width: 40px;
+    position: relative;
+    top: 195px;
+    right: 107px;
+
+}
+#glasses{
+    height: 40px;
+    width: 40px;
+    position: relative;
+    top: 256px;
+    right: 150px;
+}
+#cloud{
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top:410px;
+    right: 242px;      
+}
+#jenifer {
+width: 330px;
+height: 630px;
+position: absolute;
+top: -25px;
+left: 80px;
+box-shadow: 5px 5px 5px 5px rgb(192, 192, 192);
+}
+#line{
+    padding: 250px;
+    position: relative;
+    top: -390px;
+    left: 200px;
+}
+#display{
+height: 30px;
+width: 30px;
+position: absolute;
+top: 300px;
+left: 455px;
+}
+#service{
+    position: absolute;
+    top: 220px;
+    left: 450px;
+}
+hr{
+    position: relative;
+    top: -610px;
+    left: 200px;
+    width: 540px;
+}
+#development{
+    position: relative;
+    top: -490px;
+    left: 450px;
+    width: 220px;
+}
+#dev{
+    position: absolute;
+    top: 390px;
+    left: 450px;
+    
+}
+#book{
+position: relative;
+top: -410px;
+left: 450px;
+width: 40px;
+height: 40px;
+}
+#rocket{
+    position: relative;
+    top: -596px;
+    left: 673px;
+    height: 40px;
+    width: 40px;
+}
+#seo{
+    position: absolute;
+    top: 338px;
+    left: 720px;
+}
+#sea{
+    position: absolute;
+    top: 388px;
+    left: 720px;
+}
+#shield{
+    position: absolute;
+    top: 480px;
+    left: 715px;
+    height: 40px;
+    width: 40px;
+}
+#case{
+    height: 40px;
+    font-weight: 40px;
+    position: relative;
+    left: -195px;
+    top: 305px;
+}
